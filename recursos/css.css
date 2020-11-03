@@ -1,0 +1,40 @@
+.titulo{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.imgpk{
+    margin: 4px;
+    padding: 4px;
+}
+
+.ingresarMovil{
+    margin: 40px;
+    padding: 40px;
+}
+
+.imgPikachu{
+    margin-top: 90px;
+}
+
+.contenedor{
+    margin-left: 10px;
+    width: 400px;
+    height:200px;
+    display: flex;
+    align-items: center;
+}
+
+.contenedorGrande{
+    width: 400px;
+    height:180px;
+    display: flex;
+    align-items: center;
+}
+
+.tituloContenedor{
+    margin-left: 10px;
+}
+
+
